@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Segmentation Using DUCKNet on BraTS2020 Dataset
 
-## This project implements brain tumor segmentation using the DUCKNet architecture on the BraTS2020 dataset. The aim is to accurately segment brain tumors from MRI images, which is crucial for diagnosis and treatment planning.
+- This project implements brain tumor segmentation using the DUCKNet architecture on the BraTS2020 dataset. The aim is to accurately segment brain tumors from MRI images, which is crucial for diagnosis and treatment planning.
 
 ### 📋 Table of Contents
 1. Introduction
