@@ -173,7 +173,7 @@ Summarize the findings, the effectiveness of the DUCKNet architecture, and poten
 - [Suman Majjari](https://www.linkedin.com/in/suman-majjari/)
 - [Siva Pavan Inja](https://www.linkedin.com/in/shiva-sai-pavan-inja-a4b32523a/)
 - [Talha Jabbar](https://www.linkedin.com/in/m-talha-jabbar/)
-- [Aditya Madalla](https://www.linkedin.com/in/adithya-madala/)
+- [Aditya Madala](https://www.linkedin.com/in/adithya-madala/)
 
 ## 📚  References
 - [BraTS2020 Dataset](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data)
