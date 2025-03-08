@@ -3,6 +3,7 @@
 - This project implements brain tumor segmentation using the DUCKNet architecture on the BraTS2020 dataset. The aim is to accurately segment brain tumors from MRI images, which is crucial for diagnosis and treatment planning.
 
 ### 📋 Table of Contents
+
 1. Introduction
 2. Dataset
 3. Data Preprocessing
@@ -141,7 +142,7 @@ Here’s a table comparing the four models across key performance metrics:
 
 ---
 
-### 🏆 **Best Model**
+### 🏆 **Best Model:**
 - **DuckNet (U-Net + DenseNet)** is the best model overall:
   - **Highest Dice Coefficient (88.14% train, 88.72% validation)** indicates excellent segmentation quality.
   - **Lowest Validation Loss (0.0103)** shows minimal error on unseen data.
@@ -168,11 +169,11 @@ Summarize the findings, the effectiveness of the DUCKNet architecture, and poten
    jupyter notebook polysegmentationofbradtsdataset.ipynb
    ```
 ## 👥 Team Members
-- Shreyas Prabhakar
-- Suman Majjari
-- Siva Pavan Inja
-- Talha Jabbar
-- Aditya Madalla
+- [Shreyas Prabhakar](https://www.linkedin.com/in/shreyasprabhakar/)
+- [Suman Majjari](https://www.linkedin.com/in/suman-majjari/)
+- [Siva Pavan Inja](https://www.linkedin.com/in/shiva-sai-pavan-inja-a4b32523a/)
+- [Talha Jabbar](https://www.linkedin.com/in/m-talha-jabbar/)
+- [Aditya Madalla](https://www.linkedin.com/in/adithya-madala/)
 
   ## 📚  References
 - [BraTS2020 Dataset](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data)
