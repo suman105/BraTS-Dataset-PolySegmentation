@@ -2,7 +2,7 @@
 
 - This project implements brain tumor segmentation using the DUCKNet architecture on the BraTS2020 dataset. The aim is to accurately segment brain tumors from MRI images, which is crucial for diagnosis and treatment planning.
 
-### 📋 Table of Contents
+## 📋 Table of Contents
 
 1. Introduction
 2. Dataset
@@ -18,10 +18,10 @@
 12. License
 
 ## 📖 Introduction
-Brain tumors pose significant challenges in medical diagnosis and treatment. Automated segmentation of brain tumors from MRI scans can greatly assist medical professionals by providing consistent and accurate tumor boundaries, aiding in diagnosis, treatment planning, and monitoring.
+- Brain tumors pose significant challenges in medical diagnosis and treatment. Automated segmentation of brain tumors from MRI scans can greatly assist medical professionals by providing consistent and accurate tumor boundaries, aiding in diagnosis, treatment planning, and monitoring.
 
 ## 📂  Dataset
-### BraTS2020 Training Data
+### BraTS2020 Training Data:
 **Description:** The Brain Tumor Segmentation (BraTS) dataset provides MRI scans along with expert annotations for tumor regions.
 **Data Size:** Approximately 7 GB.
 
@@ -64,7 +64,7 @@ Brain tumors pose significant challenges in medical diagnosis and treatment. Aut
    - Split the data into training and validation sets.
 
 ## 🏗️ DUCKNet Architecture
-The DUCKNet architecture is a convolutional neural network designed for image segmentation tasks. It consists of an encoder-decoder structure with skip connections to retain spatial information.
+- The DUCKNet architecture is a convolutional neural network designed for image segmentation tasks. It consists of an encoder-decoder structure with skip connections to retain spatial information.
 
 ![image](https://github.com/user-attachments/assets/da7c8faa-e2be-4d02-955a-9bec35e25271)
 
@@ -102,7 +102,7 @@ The DUCKNet architecture is a convolutional neural network designed for image se
    ```
 
 ## 📊  Results and Comparison
-Present the results of your trained model on the validation set and compare it with other segmentation models if available.
+- Present the results of your trained model on the validation set and compare it with other segmentation models if available.
 ![image](https://github.com/user-attachments/assets/4f5dac86-1662-4044-97e6-75977042f68d)
 
 This image illustrates a medical image segmentation task using a deep learning model. It comprises three sections:
@@ -175,7 +175,7 @@ Summarize the findings, the effectiveness of the DUCKNet architecture, and poten
 - [Talha Jabbar](https://www.linkedin.com/in/m-talha-jabbar/)
 - [Aditya Madalla](https://www.linkedin.com/in/adithya-madala/)
 
-  ## 📚  References
+## 📚  References
 - [BraTS2020 Dataset](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data)
 - [DUCK-Net](https://github.com/RazvanDu/DUCK-Net)
 
@@ -196,12 +196,6 @@ We would like to thank:
 
 This project implements a modified version of the DUCK-Net architecture, originally developed by Razvan Du et al., with several architectural changes, including the removal of residual blocks and application to a different dataset. This modified architecture was developed by the following team under the guidance of Professor Victor Sheng:
 
-- **Shreyas Prabhakar**  
-- **Suman Majjari**  
-- **Siva Pavan Inja**  
-- **Talha Jabbar**  
-- **Aditya Madalla**
-
 While the design is inspired by the original DUCK-Net repository ([GitHub Link](https://github.com/RazvanDu/DUCK-Net)), this project introduces notable modifications to adapt the model for new use cases and datasets.
 
 The original DUCK-Net repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). In accordance with its open-source nature, this repository and all derivative works are licensed under the MIT License.
@@ -213,7 +207,7 @@ The original DUCK-Net repository is licensed under the [MIT License](https://ope
 - **Dataset:** The architecture has been applied to a new dataset ([Dataset Name Here, e.g., BRATS 2020 Training Data]).  
 - **Other Adjustments:** Other architectural and data preprocessing modifications were introduced to better suit the new dataset.
 
-### Citation
+## Citation
 
 If you use this modified repository in your work, please cite both the original DUCK-Net paper and this modified work. Here’s the recommended citation:
 
