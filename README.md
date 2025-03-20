@@ -22,8 +22,8 @@
 
 ## 📂  Dataset
 ### BraTS2020 Training Data:
-**Description:** The Brain Tumor Segmentation (BraTS) dataset provides MRI scans along with expert annotations for tumor regions.
-**Data Size:** Approximately 7 GB.
+- **Description:** The Brain Tumor Segmentation (BraTS) dataset provides MRI scans along with expert annotations for tumor regions.
+- **Data Size:** Approximately 7 GB.
 
 **Download Instructions:**
 1. Ensure you have a Kaggle account.
